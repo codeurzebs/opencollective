@@ -1,2 +1,1 @@
-# opencollective
-add a text file with the random number
+0.494791025369526
